@@ -1,0 +1,21 @@
+/* styles.css */
+.custom-placeholder::placeholder {
+  color: #6c757d; /* Darker placeholder text color */
+}
+
+.date-input-wrapper {
+  position: relative;
+}
+
+.date-input-wrapper .calendar-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: #007bff; /* Darker color for the calendar icon */
+  font-size: 1.2em; /* Adjust size as needed */
+}
+
+.date-input-wrapper input {
+  padding-right: 40px; /* Space for the icon */
+}
