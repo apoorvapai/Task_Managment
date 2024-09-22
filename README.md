@@ -22,7 +22,16 @@ A Task Management application built using React.js for the frontend, MongoDB for
 - **Image Storage**: Cloudinary
 - **UI Library**: Tailwind Css
 - **API Communication**: Axios
-
+## Screenshots
+![image](https://github.com/user-attachments/assets/5061389b-72e2-41f9-be08-6ecd89d35116)
+![image](https://github.com/user-attachments/assets/e675c101-0197-4161-a074-e012420c90d7)
+![image](https://github.com/user-attachments/assets/05ef23e7-606b-4626-a7ea-2c1b3823790b)
+![image](https://github.com/user-attachments/assets/adec5aa4-381f-4d44-a4e1-d4b597296570)
+![image](https://github.com/user-attachments/assets/f64f74b4-28c9-473d-baca-3c9d2abc7ca6)
+![image](https://github.com/user-attachments/assets/79abf1d5-e31b-415c-a029-1debcf5bea5e)
+![image](https://github.com/user-attachments/assets/02607e85-d4ea-49a5-870b-bce84b568aa1)
+![image](https://github.com/user-attachments/assets/9c20f935-6293-481c-b458-5263f8ed0c3f)
+![image](https://github.com/user-attachments/assets/0b34c343-faf4-435b-b27a-f2f01dc5e805)
 
 ### Prerequisites
 
